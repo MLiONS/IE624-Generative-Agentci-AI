@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Generated at run time
+documents/
+index/
+results_raw.csv
+results_scored.csv
+run_record.json
+flagged/
+
+# Secrets
+.env

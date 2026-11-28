@@ -1,0 +1,26 @@
+id,question,type,answerable,expected_answer,source_file,source_pages
+1,TODO: write a factual question about your documents,factual,yes,TODO: expected answer,TODO_file.pdf,TODO page e.g. 4 or 4;5
+2,TODO: write a factual question about your documents,factual,yes,TODO: expected answer,TODO_file.pdf,TODO page e.g. 4 or 4;5
+3,TODO: write a factual question about your documents,factual,yes,TODO: expected answer,TODO_file.pdf,TODO page e.g. 4 or 4;5
+4,TODO: write a factual question about your documents,factual,yes,TODO: expected answer,TODO_file.pdf,TODO page e.g. 4 or 4;5
+5,TODO: write a factual question about your documents,factual,yes,TODO: expected answer,TODO_file.pdf,TODO page e.g. 4 or 4;5
+6,TODO: write a factual question about your documents,factual,yes,TODO: expected answer,TODO_file.pdf,TODO page e.g. 4 or 4;5
+7,TODO: write a factual question about your documents,factual,yes,TODO: expected answer,TODO_file.pdf,TODO page e.g. 4 or 4;5
+8,TODO: write a factual question about your documents,factual,yes,TODO: expected answer,TODO_file.pdf,TODO page e.g. 4 or 4;5
+9,TODO: write a conceptual question about your documents,conceptual,yes,TODO: expected answer,TODO_file.pdf,TODO page e.g. 4 or 4;5
+10,TODO: write a conceptual question about your documents,conceptual,yes,TODO: expected answer,TODO_file.pdf,TODO page e.g. 4 or 4;5
+11,TODO: write a conceptual question about your documents,conceptual,yes,TODO: expected answer,TODO_file.pdf,TODO page e.g. 4 or 4;5
+12,TODO: write a conceptual question about your documents,conceptual,yes,TODO: expected answer,TODO_file.pdf,TODO page e.g. 4 or 4;5
+13,TODO: write a conceptual question about your documents,conceptual,yes,TODO: expected answer,TODO_file.pdf,TODO page e.g. 4 or 4;5
+14,TODO: write a conceptual question about your documents,conceptual,yes,TODO: expected answer,TODO_file.pdf,TODO page e.g. 4 or 4;5
+15,TODO: write a conceptual question about your documents,conceptual,yes,TODO: expected answer,TODO_file.pdf,TODO page e.g. 4 or 4;5
+16,TODO: write a comparison question about your documents,comparison,yes,TODO: expected answer,TODO_file.pdf,TODO page e.g. 4 or 4;5
+17,TODO: write a comparison question about your documents,comparison,yes,TODO: expected answer,TODO_file.pdf,TODO page e.g. 4 or 4;5
+18,TODO: write a comparison question about your documents,comparison,yes,TODO: expected answer,TODO_file.pdf,TODO page e.g. 4 or 4;5
+19,TODO: write a comparison question about your documents,comparison,yes,TODO: expected answer,TODO_file.pdf,TODO page e.g. 4 or 4;5
+20,TODO: write a comparison question about your documents,comparison,yes,TODO: expected answer,TODO_file.pdf,TODO page e.g. 4 or 4;5
+21,Who won the 2018 FIFA World Cup?,unanswerable,no,,,
+22,What is the boiling point of mercury in Kelvin?,unanswerable,no,,,
+23,Which city hosted the 2016 Summer Olympics?,unanswerable,no,,,
+24,What is the current repo rate of the Reserve Bank of India?,unanswerable,no,,,
+25,Who wrote the novel 'One Hundred Years of Solitude'?,unanswerable,no,,,
